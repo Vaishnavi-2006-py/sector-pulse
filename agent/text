@@ -1,0 +1,8 @@
+competitive-intel-agent/
+│
+├── agent/
+│   └── memory_engine.py   <-- Agent logic (Hindsight + Groq)
+│
+├── app.py                 <-- Dashboard interface (Streamlit)
+├── requirements.txt       <-- List of software dependencies
+└── README.md              <-- Project documentation
